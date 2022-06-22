@@ -17,7 +17,7 @@
 
 ### Demo Screeshots
 
-![Profile Card Desktop Demo](./readme-images/Profile-Card.png "Desktop Demo")
+![Profile Card Desktop Demo](./readme-images/ProfileCard.png "Desktop Demo")
 
 ### Prerequisites
 
