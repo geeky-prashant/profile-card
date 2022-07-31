@@ -9,7 +9,7 @@
 
   <h2 align="center">Profile Card</h2>
 
-  In this project, I have created a profile page for mobile screen where you can see user's image, name and bio, <br />The project is built using HTML5 & CSS3.
+  In this project, I have created a profile page for mobile screen where you can see user's image, name and bio, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/profile-card/"><strong>➥ Live Demo</strong></a>
 
